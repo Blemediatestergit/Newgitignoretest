@@ -28,7 +28,7 @@ public class Browser  {
 
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
-		String Url ="https://stagingrv4.redtie.co/SignIn";
+		String Url ="https://devrv4.redtie.co/SignIn";
 		driver.get(Url);
 		driver.manage().window().maximize();
 		driver.getTitle();
