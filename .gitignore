@@ -26,4 +26,4 @@ replay_pid*
 
 /src/test/java/Browser/Browser.java
 
-
+/target/test-classes/
