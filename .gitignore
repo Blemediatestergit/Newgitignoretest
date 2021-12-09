@@ -24,6 +24,10 @@ hs_err_pid*
 replay_pid*
 /target/
 
+
+# Ignore a file without extension
+target/test-classes/Browser
+
 /src/test/java/Browser/Browser.java
 
-/target/
+
