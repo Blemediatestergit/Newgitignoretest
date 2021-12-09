@@ -111,6 +111,10 @@ hs_err_pid*
 replay_pid*
 /target/
 
+/.classpath
+/*.project
+/.settings
+/*.springBeans
 
 # Ignore a file without extension
 target/test-classes/Browser
