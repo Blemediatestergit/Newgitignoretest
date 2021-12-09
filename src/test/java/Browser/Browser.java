@@ -22,7 +22,7 @@ public class Browser  {
 	{
 		
 	}
-
+//gitignore
 	@BeforeMethod
 	public void open_Browser()  {
 
